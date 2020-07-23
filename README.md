@@ -1,7 +1,7 @@
 # face-recognition
 Face detection using a CSV file and Python programming
 
-  Step 1:- Always store the CSV file and the images in the local folder.
+        Step 1:- Always store the CSV file and the images in the local folder.
 
 	Step 2:- pip install face_recognition (library) and also import the above mentioned libraries into your code.
 
